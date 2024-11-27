@@ -15,10 +15,10 @@ Este projeto é uma **landing page do Huddle**, com base em uma atividade do [Fr
 - Propriedades customizadas do CSS
 - Flexbox
 
-<!--  TODO  ## Instalação
+## Instalação
 Este projeto está hospedado no **GitHub Pages**. Para visualizar a página ao vivo, acesse o link:
 
-- [Huddle Landing Page - GitHub Pages](#) -->
+- [Huddle Landing Page - GitHub Pages](https://vanderlei94.github.io/projeto-huddle-base/)
 
 ## Imagens do Projeto
 ### Exibição em Dispositivos Móveis
