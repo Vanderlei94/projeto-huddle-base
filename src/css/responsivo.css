@@ -1,0 +1,62 @@
+@media (max-width: 765px) {
+    body {
+        height: 50vh;
+        background: url(../images/bg-mobile.svg) no-repeat top;
+        background-size: cover;
+    }
+
+
+
+    .cabecalho {
+        padding: 30px;
+    }
+    
+    .cabecalho img {
+        width: 150px;
+    }
+    
+    .container {
+        flex-direction: column;
+    }
+
+    .container .ilustration img {
+        height: 230px;
+    }
+
+    .container .description {
+        margin-bottom: 20px;
+        padding: 0px 50px;
+    }
+
+    .container .description .title {
+        font-size: 2.4rem;
+        text-align: center;
+    }
+
+    .container .description .text-description {
+        font-size: 1.6rem;
+        text-align: center;
+    }
+
+    .container .description .btn-register {
+        border-radius: 45px;
+        padding: 10px 80px;
+        font-size: 1.6rem;
+        align-self: center;
+    }
+
+    .footer {
+        align-self: center;
+        margin: 0;
+        gap: 10px;
+    }
+
+    .footer i {
+        font-size: 1.8rem;
+        padding: 8px;
+    }
+
+    .footer .fa-facebook-f {
+        padding: 8px 12px;
+    }
+}
