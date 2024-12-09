@@ -30,6 +30,6 @@ Este projeto está hospedado no **GitHub Pages**. Para visualizar a página ao v
 
 ## Autor
 
-- LinkedIn - [Vanderlei Junior](https://www.linkedin.com/in/vanderlei-oliveira94/)
+- LinkedIn - [Vanderlei Junior](https://www.linkedin.com/in/vanderleidev/)
 - Frontend Mentor - [@Vanderlei94](https://www.frontendmentor.io/profile/Vanderlei94)
 - GitHub - [@Vanderlei94](https://github.com/Vanderlei94)
