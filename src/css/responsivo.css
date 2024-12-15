@@ -10,33 +10,36 @@
     .cabecalho {
         padding: 30px;
     }
-    
+
     .cabecalho img {
         width: 120px;
     }
-    
+
     .container {
         flex-direction: column;
-        padding: 30px 40px;
+        padding: 0;
+        gap: 50px;
     }
 
     .container .ilustration img {
-        height: 200px;
+        width: auto;
+        height: auto;
+        max-width: 300px;
     }
 
     .container .description {
-        margin-bottom: 20px;
-        padding: 0px;
+        padding: 20px;
+        text-align: center;
+        max-width: 100vw;
+        margin-top: 20px;
     }
 
     .container .description .title {
         font-size: 2.4rem;
-        text-align: center;
     }
 
     .container .description .text-description {
         font-size: 1.6rem;
-        text-align: center;
     }
 
     .container .description .btn-register {

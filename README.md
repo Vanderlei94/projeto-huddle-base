@@ -22,11 +22,11 @@ Este projeto está hospedado no **GitHub Pages**. Para visualizar a página ao v
 
 ## Imagens do Projeto
 ### Exibição em Dispositivos Móveis
-![Exibição em Dispositivos Móveis](./src/images/iPhone-14-Pro-438x891.png)  
+![Exibição em Dispositivos Móveis](./src/images/iPhone-14-Pro-393x852.png)  
 
 
 ### Exibição em Computadores
-![Exibição em Computadores](./src/images/Macbook-Air-M2-1602x969.png)  
+![Exibição em Computadores](./src/images/Macbook-Air-M2-1280x832.png)  
 
 ## Autor
 
