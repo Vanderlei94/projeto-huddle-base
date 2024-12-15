@@ -12,20 +12,21 @@
     }
     
     .cabecalho img {
-        width: 150px;
+        width: 120px;
     }
     
     .container {
         flex-direction: column;
+        padding: 30px 40px;
     }
 
     .container .ilustration img {
-        height: 230px;
+        height: 200px;
     }
 
     .container .description {
         margin-bottom: 20px;
-        padding: 0px 50px;
+        padding: 0px;
     }
 
     .container .description .title {
@@ -45,9 +46,10 @@
         align-self: center;
     }
 
-    .footer {
-        align-self: center;
-        margin: 0;
+    .footer ul {
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
         gap: 10px;
     }
 
